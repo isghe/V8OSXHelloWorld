@@ -4,10 +4,10 @@ V8 Getting started (https://developers.google.com/v8/get_started) modifications,
 
 output:
 
-$ ./hello_world 
-Compiled: Apr 29 2015 13:44:55
-V8Version: 4.4.0 (candidate)
-Hello, World!
-bye bye...
+$ ./hello_world  
+Compiled: Apr 29 2015 13:44:55  
+V8Version: 4.4.0 (candidate)  
+Hello, World!  
+bye bye...  
 
 Isidoro Ghezzi
